@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Contact US</title>
+	<title>Contact Us</title>
 	<link rel="stylesheet" href="{{url('css/app.css')}}}">
 </head>
 <body>
